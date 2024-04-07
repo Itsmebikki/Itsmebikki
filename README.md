@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Itsmebikki
-- 👀 I’m interested in graphic designing and web development
-- 🌱 I’m currently learning python programming language
+- 👀 I’m interested in Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me bikendrachaudhary98097@gmail.com
 
