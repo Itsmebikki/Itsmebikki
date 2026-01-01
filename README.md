@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Itsmebikki
-- 👀 I’m interested in Data and Business ANalysis
+- 👀 I’m interested in Data and Business Analysis
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me bikendrachaudhary98097@gmail.com
 
